@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: about me
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Hi! I’m a Ph.D. student at the [](http://hussman.unc.edu/)School of Information, Univeristy of Michigan at Ann Arbor. My advisors are [](http://www.shannoncmcgregor.com/)Dr. Cliff Lampe and Dr. Irene Pasquetto. I’m affiliated with the Social Media Research Lab.
+
+Through my research, I aim to address . More specifically, I study the . I am passionate about my research because of its implications .
