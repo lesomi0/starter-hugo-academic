@@ -1,6 +1,7 @@
 ---
 title: Song Mi Lee
 role: Information PhD Candidate
+avatar_filename: songlee.jpg
 bio: My research interests include online mob justice, misinformation and
   information literacy.
 interests:
